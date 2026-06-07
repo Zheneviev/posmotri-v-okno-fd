@@ -94,6 +94,7 @@ ol {
   width: 711px;
   height: 386px;
   margin-bottom: 16px;
+  position: relative;
 }
 
 .result__video {
@@ -141,6 +142,7 @@ ol {
 .content__card-link {
   text-decoration: none;
   color: white;
+  display: block;
 }
 
 .content__video-card-title {
@@ -275,9 +277,6 @@ ol {
   text-decoration: underline;
 }
 
-.content__card-link {
-  display: block;
-}
 
 .content__card-link_current {
   background-color: #545050;
@@ -303,6 +302,3 @@ ol {
   padding: 0 3px;
 }
 
-.result__video-container {
-  position: relative;
-}
