@@ -216,6 +216,7 @@ ol {
   background-color: transparent;
   appearance: none;
   color: #fff;
+  letter-spacing: -0.2px;
 }
 
 .search-form__textfield::placeholder {
